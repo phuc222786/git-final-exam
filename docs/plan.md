@@ -12,7 +12,12 @@ Ngày kết thúc: 13/10/2025
 8. Theo dõi log và hiểu quy trình phát triển.
 9. Rút kinh nghiệm khi gặp lỗi xung đột.
 10. Tổng kết và chuẩn bị cho bài thi Git Final Exam.
+<<<<<<< Updated upstream
 - Ôn tập các kiến thức đã học trong tuần.
 - Làm bài thực hành Git để củng cố kỹ năng.
 - Chuẩn bị bài cho buổi học tiếp theo.
 - Ghi chú lại lỗi thường gặp khi dùng Git.
+=======
+- Học thêm về Git stash và Git cherry-pick.
+- Tìm hiểu quy trình làm việc nhóm với Git Flow.
+>>>>>>> Stashed changes

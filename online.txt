@@ -1,3 +1,5 @@
 This file was created via terminal.
 Simulating GitHub web creation.
 Learning to sync remote and local.
+Added locally after pulling from GitHub.
+Testing Git sync with tags.

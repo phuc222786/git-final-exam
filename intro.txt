@@ -13,3 +13,9 @@ Kỹ năng:
 1. Sử dụng Git và GitHub
 2. Lập trình C# và SQL
 3. Làm việc nhóm hiệu quả
+Kế hoạch học tập:
+- Ôn lại các lệnh Git cơ bản: add, commit, push.
+- Học cách tạo và làm việc với branch.
+- Thực hành merge và xử lý conflict.
+- Tìm hiểu reset và revert.
+- Áp dụng Git vào kiểm tra cuối kỳ. 

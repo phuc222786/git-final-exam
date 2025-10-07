@@ -1,0 +1,2 @@
+- Giúp theo dõi tiến trình làm việc rõ ràng.
+- Hỗ trợ xử lý lỗi hiệu quả hơn.

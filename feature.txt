@@ -1,0 +1,5 @@
+Tính năng mới: Ghi lại lịch sử hoạt động của người dùng.
+- Mỗi thao tác sẽ được lưu trong log file.
+- Quản trị viên có thể xem và lọc hoạt động theo thời gian.
+- Tính năng này giúp theo dõi tiến trình làm việc nhóm.
+- Dự kiến tích hợp vào phiên bản 1.1.

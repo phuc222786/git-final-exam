@@ -1,2 +1,3 @@
-- Giúp theo dõi tiến trình làm việc rõ ràng.
-- Hỗ trợ xử lý lỗi hiệu quả hơn.
+- Git giúp quản lý mã nguồn dễ dàng hơn.
+- Có thể quay lại các phiên bản cũ nhanh chóng.
+- Là công cụ rất hữu ích khi làm việc nhóm.
